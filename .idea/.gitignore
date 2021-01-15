@@ -2,7 +2,7 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
-/../../../../:\proj\weatherCentral\.idea/dataSources/
+/../../../../../../../:\Users\angga\IdeaProjects\Golang\weathercentral\.idea/dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/

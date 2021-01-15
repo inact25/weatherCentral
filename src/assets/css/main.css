@@ -1,0 +1,27 @@
+body {
+    background: url('../img/bg.jpg');
+    background-size: cover !important;
+    color: white !important;
+    text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
+}
+
+.card {
+    border: none !important;
+    color: white;
+    border-radius: 1rem !important;
+    background: rgba(255, 255, 255, 0.25) !important;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+}
+
+.owl-carousel .owl-stage, .owl-carousel.owl-drag .owl-item {
+    -ms-touch-action: auto !important;
+    touch-action: auto !important;
+}
+
+.iconShaddow {
+    text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
+    filter: drop-shadow(0 0 0.75rem black);
+
+}
